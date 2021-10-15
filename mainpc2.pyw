@@ -1,6 +1,6 @@
 from telegram.ext import * 
 import subprocess
-API_KEY = '1918913335:AAF5AQ8CS7WKzOlUb26FwaVv3ao5HxepntA'
+API_KEY = '1918913335:AAF5AQ8CS7WKzOlUb26FwaVv3ao5HxepntA' # IMPORTANTE, LA API DEBE SER LA DEL BOT.
 
 def ejecutar(comando):
     #output = subprocess.call(comando, shell=True)
