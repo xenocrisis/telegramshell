@@ -1,5 +1,3 @@
-# POWERED BY XENONXSS TO @DEVREVENGERS
-# COMENTADO POR XENONXSS
 # ReverseShell ft. Telegram API
 
 from telegram.ext import * 
